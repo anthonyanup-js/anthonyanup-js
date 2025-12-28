@@ -2,9 +2,10 @@
 
 💻 **Full Stack Developer (MERN)**   
 📍 India
-
+```
 I enjoy building real-world web applications and understanding **how things work under the hood**.  
 Currently strengthening my **backend skills** and exploring scalable system concepts.
+```
 
 ---
 
