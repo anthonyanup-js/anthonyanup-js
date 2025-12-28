@@ -1,19 +1,19 @@
-# 👋 Hi, I'm Anthony Anup
+# Hi, I'm Anthony Anup
 
-💻 **Full Stack Developer (MERN)**   
-📍 India
-```
+**Full Stack Developer (MERN)**   
+India
+
 I enjoy building real-world web applications and understanding **how things work under the hood**.  
 Currently strengthening my **backend skills** and exploring scalable system concepts.
-```
+
 
 ---
 
-## 💫 About Me
-- 🔧 MERN Stack Developer  
-- 🧠 Bachelor of Engineering – Computer Science & Engineering (Data Science) 
-- 📈 Learning by building real projects  
-- 🎯 Goal: Become a strong backend / full-stack engineer  
+## About Me
+- MERN Stack Developer  
+- Bachelor of Engineering – Computer Science & Engineering (Data Science) 
+- Learning by building real projects  
+- Goal: Become a strong backend / full-stack engineer  
 
 ---
 
